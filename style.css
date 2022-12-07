@@ -1,0 +1,185 @@
+
+
+
+    *{
+
+        margin:0;
+        padding:0;
+        box-sizing:border-box;
+
+    }
+
+      body {
+
+          background-color:yellow;
+          height:10%;
+
+      }
+
+
+      li,ul .nav-link {
+
+          text-decoration:none;
+          list-style:none;
+
+      }
+
+
+    .nav-link{
+
+        margin-left:20px;
+        color:black;
+        font-weight:bold;
+
+    }
+
+
+      .logo{
+
+        margin-left:90px;
+          margin-top:24px;
+
+      }
+
+
+      .nawbar {
+
+          display:inline-block;
+          display:flex;
+          margin-top:-40px;
+          margin-left:280px;
+
+      }
+
+
+
+         .download_btn{
+
+             margin-left:40px;
+             margin-top:-17px;
+             background:black;
+
+             color:white;
+             font-size:16px;
+             fomt-weight:bold;
+
+             width:180px;
+             height:50px;
+             border-radius:14px;
+
+
+         }
+
+
+
+                             /* home container */
+
+           .home-image{
+               text-align:center;
+               margin-top:78px;
+               margin-left:166px;
+
+           }
+
+
+            .download_application_btn{
+
+                margin-left:178px;
+                margin-top: -10px;
+                background:black;
+                border-radius:28px;
+                width:380px;
+                height:86px;
+
+            }
+
+
+           .download_application_link {
+
+               text-decoration:none;
+               list-style:none;
+               color:white;
+               font-size:25px;
+
+           }
+
+
+
+                               /*--home text start--*/
+
+
+          .home-text{
+
+              margin-left:178px;
+              margin-top:50px;
+              color:white;
+              font-size:69px;
+              font-weight:bold;
+
+
+          }
+
+
+          .home-text-link{
+
+              font-size:69px;
+              color:white;
+              font-weight:bold;
+
+          }
+
+
+           .how_to_arend_container{
+
+               margin-left:232px;
+
+           }
+
+
+           .how_to_arend_a_samocat_text {
+
+            font-size:73px;
+
+           }
+
+
+       .how_to_arend_container_text {
+
+           width:350px;
+           font-size:32px;
+           font-weight:bold;
+           color:black;
+
+       }
+
+
+                                        /*tarif-container*/
+
+
+                         .tarif-container{
+
+                             display:flex;
+                             justify-content:center;
+
+                         }
+
+
+         .gotovo_vibyraite{
+
+             background:black;
+             text-align:center;
+             color:white;
+             width:820px;
+             height:160px;
+             margin-top: -130px;
+             padding-top:60px;
+
+             border-radius:22px;
+
+             /*--place--*/
+
+             margin-top:110px;
+
+         }
+
+
